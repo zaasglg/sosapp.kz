@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("BebasNeueRegular.woff2") format("woff2"),
+        url("BebasNeueRegular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("BebasNeueBold.woff2") format("woff2"),
+        url("BebasNeueBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+.font-bebas {
+    font-family: "Bebas Neue", serif;
+    font-weight: bold;
+}
